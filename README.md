@@ -18,13 +18,13 @@
 
 # Information
 
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:florentextrassiaz@hotmail.com)](mailto:florentextrassiaz@hotmail.com)
+[![GMAIl](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:florentextrassiaz@hotmail.com)](mailto:florentextrassiaz@hotmail.com)
 
 ## 🕸️ **WEB DEV**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
+<a href="https://www.w3schools.com/html/default.asp" target="_blank">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")</a>
+<a href="https://www.w3schools.com/css/default.asp" target="_blank">![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")</a>
+<a href="https://www.w3schools.com/js/default.asp" target="_blank">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")</a>
 <!-- [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][repo]
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")][repo]
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")][repo]
