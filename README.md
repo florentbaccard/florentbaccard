@@ -16,6 +16,10 @@
 
 <br/>
 
+# Information
+
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:florentextrassiaz@hotmail.com)](mailto:florentextrassiaz@hotmail.com)
+
 ## 🕸️ **WEB DEV**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
