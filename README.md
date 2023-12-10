@@ -24,7 +24,7 @@
 <br/>
 
 <!-- My Information -->
-<h2 align="left">INFORMATION / CONTACT</h2>
+<h2 align="left">ℹ️ INFORMATION & CONTACT</h2>
 <!-- Spacce -->
 
  <a href="mailto:florentextrassiaz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Florent Baccard" /></a>
