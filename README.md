@@ -114,10 +114,9 @@
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][repo] -->
 
 ##
-
 <img width=100% src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgzemk4cnM0aXB5emJmOGNscTRpOGhhdjJqY2lqdnI3YnI2cnJ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MagSgolK3ScWvtHAB4/giphy.gif />
 
-##
+
 
 <!--
 **florentbaccard/florentbaccard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
