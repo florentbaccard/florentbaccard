@@ -23,6 +23,10 @@
 <!-- Spacce -->
 <br/>
 
+<!-- Click for more -->
+<details/>
+<summary align="center">CLICK FOR MORE INFO !</summary>
+  
 <!-- My Information -->
 <h2 align="left">ℹ️ INFORMATION & CONTACT</h2>
 <!-- Spacce -->
@@ -139,7 +143,7 @@
 <!-- [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)][repo]
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][repo]
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][repo] -->
-
+  
 <!-- Space -->
 <br/>
 
