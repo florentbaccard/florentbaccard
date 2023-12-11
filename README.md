@@ -12,11 +12,11 @@
 <!-- Container Infos -->
 <div align="left">
   
-**2️⃣6️⃣ Years old**
+**❗️26 Years old**
 
-**France 🇫🇷**
+**📍 France**
 
-**Full stack web & mobile developer student 👨‍💻**
+**👨‍💻 Full stack web & mobile developer student**
 
 </div>
 
