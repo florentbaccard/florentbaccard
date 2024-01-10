@@ -2,9 +2,9 @@
 
 ###
 
-<div align="right">
+<!--<div align="right">
   <img height="150" src="https://media.giphy.com/media/zkMri4yiJ3Mdy/giphy.gif"  />
-</div>
+</div>-->
 
 ###
 
