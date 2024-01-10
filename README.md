@@ -8,6 +8,19 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/florentbaccard/count.svg?"  />
+</div>
+
+<br clear="both">
+
+<details/>
+<summary align="center">CLICK FOR MORE INFO !</summary>
+
+###
+
 <h3 align="center">CONTACT</h3>
 
 ###
@@ -29,20 +42,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
 </div> -->
   
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/florentbaccard/count.svg?"  />
-</div>
-
-<br clear="both">
-<br clear="both">
-
-<details/>
-<summary align="center">CLICK FOR MORE INFO !</summary>
-
 ###
 
 <h2 align="left">Programming Languages</h2>
