@@ -1,8 +1,13 @@
- <img height="150" src="https://media.giphy.com/media/IazxKLEE6MvT9T0mSZ/giphy.gif"  />
-<p align="left">❗️26 Years old<br><br>📍 France<br><br>👨‍💻 Full stack web & mobile developer student</p>
+<!-- Container Infos -->
+<div align="left">
+  
+**❗️26 Years old**
 
-###
+**📍 France**
 
+**👨‍💻 Full stack web & mobile developer student**
+
+</div>
 <!--<div align="right">
   <img height="150" src="https://media.giphy.com/media/zkMri4yiJ3Mdy/giphy.gif"  />
 </div>-->
