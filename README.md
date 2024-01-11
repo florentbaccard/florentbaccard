@@ -21,7 +21,9 @@
 
 ###
 
-<h3 align="center">CONTACT</h3>
+<br clear="both">
+
+<h3 align="center">ℹℹ INFORMATION & CONTACT</h3>
 
 ###
 
@@ -31,6 +33,8 @@
  <a href=""><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username Flo_bcd" width="125" height="35" ></a>
  <a href=""><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Florent Baccard" width="125" height="35" /></a>
  </div>
+
+ <br clear="both">
  
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -90,7 +94,7 @@
 
 ###
 
-<h2 align="left">DevOps Tools</h2>
+<h2 align="left">🛠️DevOps Tools</h2>
 
 ###
 
@@ -102,7 +106,7 @@
 
 ###
 
-<h2 align="left">Design Tools</h2>
+<h2 align="left">🍧Design Tools</h2>
 
 ###
 
@@ -114,7 +118,7 @@
 
 ###
 
-<h2 align="left">Code editor & Ides</h2>
+<h2 align="left">📄Code editor & Ides</h2>
 
 ###
 
