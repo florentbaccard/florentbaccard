@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=FFE436&height=200&section=header&text=Florent%20Baccard&&fontColor=ED0010&fontSize=70&animation=fadeIn&fontAlignY=48&descAlignY=51&descAlign=62) 
 <!-- Container Infos -->
 
-<img align="left" height="120" src="https://media.giphy.com/media/ge8V1m6LFNyBg9sIHV/giphy.gif"/>
+<img align="left" height="150" src="https://media.giphy.com/media/ge8V1m6LFNyBg9sIHV/giphy.gif"/>
 
 <div align="left">
   
-**❗️26 Years old**
+<h3>❗️26 Years old<h3/>
 
-**📍 France**
+<h3>📍 France<h3/>
 
-**👨‍💻 Full stack web & mobile developer student**
+<h3>👨‍💻 Full stack web & mobile developer student<h3/>
 
 </div>
 <!--<div align="right">
