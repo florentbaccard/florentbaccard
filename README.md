@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<h3 align="center">ℹℹ INFORMATION & CONTACT</h3>
+<h3 align="center">ℹ INFORMATION & CONTACT</h3>
 
 ###
 
@@ -48,7 +48,7 @@
   
 ###
 
-<h2 align="left">Programming Languages</h2>
+<h2 align="left">⚙️Programming Languages</h2>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="left">Frontend Development</h2>
+<h2 align="left">🖌️Frontend Development</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h2 align="left">Backend Development</h2>
+<h2 align="left">🪛Backend Development</h2>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h2 align="left">Database</h2>
+<h2 align="left">💾Database</h2>
 
 ###
 
