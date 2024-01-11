@@ -1,4 +1,7 @@
 <!-- Container Infos -->
+
+<img align="left" height="150" src="https://media.giphy.com/media/ge8V1m6LFNyBg9sIHV/giphy.gif"/>
+
 <div align="left">
   
 **❗️26 Years old**
