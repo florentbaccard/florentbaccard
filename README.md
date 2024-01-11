@@ -1,3 +1,4 @@
+ <img height="150" src="https://media.giphy.com/media/IazxKLEE6MvT9T0mSZ/giphy.gif"  />
 <p align="left">❗️26 Years old<br><br>📍 France<br><br>👨‍💻 Full stack web & mobile developer student</p>
 
 ###
