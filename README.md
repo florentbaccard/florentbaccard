@@ -39,7 +39,7 @@
  
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,mysql,nodejs,git,github,vscode,wordpress,discord,figma,ps,pr,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,mysql,nodejs,git,github,vscode,wordpress,discord,figma,ps,pr,)
 
 <img src="https://raw.githubusercontent.com/florentbaccard/florentbaccard/output/snake.svg" alt="Snake animation" />
 
