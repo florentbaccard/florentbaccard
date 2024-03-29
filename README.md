@@ -55,7 +55,7 @@
 
 ### 📚 Frameworks and Libraries :
 - Bootstrap
-- WordPress
+- WordPress ( CMS )
 
 ### 🗃️ Databases :
 - MySQL
