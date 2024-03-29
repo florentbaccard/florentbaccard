@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="28" height="20px" /> Connect with Me</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="32" height="24px" /> Connect with Me</h3>
 
 ###
 
