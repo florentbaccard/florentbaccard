@@ -29,10 +29,10 @@
 ###
 
 <div align="center">
- <a href="mailto:florentextrassiaz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Florent Baccard" width="100" height="30" /></a>
- <a href=""><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Florent Baccard" width="100" height="30" ></a>
- <a href=""><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username Flo_bcd" width="100" height="30" ></a>
- <a href=""><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Florent Baccard" width="100" height="30" /></a>
+ <a href="mailto:florentextrassiaz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="email of Florent Baccard" /></a>
+ <a href=""><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="profile of Discord with username Flo_bcd" " ></a>
+ <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="profile of LinkedIn with username Florent Baccard" /></a>
+  
 </div>
 
  <br clear="both">
