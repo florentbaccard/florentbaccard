@@ -37,30 +37,30 @@
 
  <br clear="both">
 
-## My Technical Skills 💻
+## 💻 My Technical Skills 
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,php,mysql,git,github,vscode,wordpress,discord,figma,ps,pr,)
 
-### Programming Languages 🖥️:
+### 🖥️ Programming Languages :
 - JavaScript (JS)
 - HTML
 - CSS
 - Sass
 - PHP
 
-### Development Tools and Environments 🛠️:
+### 🛠️ Development Tools and Environments :
 - Git
 - GitHub
 - Visual Studio Code (VSCode)
 
-### Frameworks and Libraries 📚:
+### 📚 Frameworks and Libraries :
 - Bootstrap
 - WordPress
 
-### Databases 🗃️:
+### 🗃️ Databases :
 - MySQL
 
-### Design and Collaboration Tools 🎨:
+### 🎨 Design and Collaboration Tools :
 - Discord
 - Figma
 - Adobe Photoshop (PS)
