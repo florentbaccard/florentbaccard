@@ -39,7 +39,13 @@
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="28px" height="24px" align="center" > My Technical Skills 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,php,mysql,git,github,vscode,wordpress,discord,figma,ps,pr,)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,php,mysql,git,github,vscode,wordpress,discord,figma,ps,pr," />
+  </a>
+</p>
+
+<!-- ![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,php,mysql,git,github,vscode,wordpress,discord,figma,ps,pr,&perline=6&align) -->
 
 ### 🖥️ Programming Languages :
 - JavaScript (JS)
