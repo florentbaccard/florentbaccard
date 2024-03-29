@@ -45,7 +45,7 @@
 - JavaScript (JS)
 - HTML
 - CSS
-- Sass
+- SCSS
 - PHP
 
 ### 🛠️ Development Tools and Environments :
@@ -56,6 +56,7 @@
 ### 📚 Frameworks and Libraries :
 - Bootstrap
 - WordPress ( CMS )
+- SASS
 
 ### 🗃️ Databases :
 - MySQL
