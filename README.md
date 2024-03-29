@@ -36,11 +36,36 @@
  </div>
 
  <br clear="both">
- 
-### 🛠 &nbsp;Tech Stack
+
+## My Technical Skills 💻
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,php,mysql,git,github,vscode,wordpress,discord,figma,ps,pr,)
 
-<img src="https://raw.githubusercontent.com/florentbaccard/florentbaccard/output/snake.svg" alt="Snake animation" />
+### Programming Languages 🖥️:
+- JavaScript (JS)
+- HTML
+- CSS
+- Sass
+- PHP
+
+### Development Tools and Environments 🛠️:
+- Git
+- GitHub
+- Visual Studio Code (VSCode)
+
+### Frameworks and Libraries 📚:
+- Bootstrap
+- WordPress
+
+### Databases 🗃️:
+- MySQL
+
+### Design and Collaboration Tools 🎨:
+- Discord
+- Figma
+- Adobe Photoshop (PS)
+- Adobe Premiere (PR)
+
+<!-- <img src="https://raw.githubusercontent.com/florentbaccard/florentbaccard/output/snake.svg" alt="Snake animation" /> -->
 
 ###
