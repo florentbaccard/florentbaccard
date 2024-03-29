@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<h3 align="center">🤝🏻 Connect with Me</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="28" height="20px" /> Connect with Me</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
  <br clear="both">
 
-## 💻 My Technical Skills 
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="28px" height="24px" align="center" > My Technical Skills 
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,php,mysql,git,github,vscode,wordpress,discord,figma,ps,pr,)
 
