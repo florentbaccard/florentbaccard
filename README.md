@@ -33,14 +33,14 @@
  <a href=""><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Florent Baccard" width="100" height="30" ></a>
  <a href=""><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username Flo_bcd" width="100" height="30" ></a>
  <a href=""><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Florent Baccard" width="100" height="30" /></a>
- </div>
+</div>
 
  <br clear="both">
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="28px" height="24px" align="center" > My Technical Skills 
 
 <p>
-  <a href="https://skillicons.dev">
+   <a>
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,php,mysql,git,github,vscode,wordpress,discord,figma,ps,pr," />
   </a>
 </p>
